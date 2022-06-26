@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.dataGrid {
+   width: 1008px;
+   height: 100%;
+   background: #C4C4C4;
+   margin-right: 14px;
+   margin-left: 20px;
+}
+
+.dataGrid__main {
+   font-family: Inter;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 22px;
+   margin: 13px 0 0 17px;
+}

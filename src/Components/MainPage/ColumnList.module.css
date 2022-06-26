@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.columnList {
+   width: 353px;
+   height: 100%;
+   background: #C4C4C4;
+   margin-right: 20px;
+}
+
+.columnList__text {
+   margin: 8px 0 17px 24px;
+   font-family: Inter;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 22px;
+}
+
+.columnList__container {
+   display: flex;
+   margin-left: 38px;
+}
+
+.columnList__container_item {
+   width: 35%;
+   margin-right: 15%;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 22px;
+   font-family: Inter;
+}
+
+.button__delete {
+   margin: 0;
+   border: none;
+   outline: none;
+   background: none;
+}
+
+.button__change {
+   margin: 0;
+   border: none;
+   outline: none;
+   background: none;
+}
+
+.container__delete_change {
+   margin-right: 30px;
+   font-family: Inter;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 22px;
+}
+
+.columnList__addButton {
+   border: none;
+   outline: none;
+   background: none;
+   font-family: 'Inter';
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 22px;
+   display: flex;
+   justify-content: center;
+   margin: 0 auto;
+   margin-top: 25px;
+   cursor: pointer;
+}
